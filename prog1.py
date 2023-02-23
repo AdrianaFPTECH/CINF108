@@ -8,4 +8,4 @@ S = float(input('Please input the space between the vines. '))
 
 V = (R-2*E)/S
 
-print(V)
+print(f'A row {R} ft long, with {E} ft end-posts and vines {S} ft apart requires {V} vines')
